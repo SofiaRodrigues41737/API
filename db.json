@@ -15,11 +15,11 @@
          "color":60.0
       },
       {
-          "id": "m20",
-          "description": "Marker 20",
-          "longitude": -73.968285,
-          "latitude": 40.785091,
-          "color": 270.0
+         "id":"m20",
+         "description":"Marker 20",
+         "longitude":-73.968285,
+         "latitude":40.785091,
+         "color":270.0
       },
       {
          "id":"m25",
@@ -45,8 +45,8 @@
       {
          "id":"m32",
          "description":"Marker 32",
-         "longitude":-569.75,
-         "latitude":-105.74,
+         "longitude":-1.023194,
+         "latitude":7.946527,
          "color":0.0
       },
       {
