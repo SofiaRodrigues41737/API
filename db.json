@@ -1,73 +1,73 @@
 {
 	"markers": [{
-			"id": 35,
+			"id": "m35",
 			"description": "Marker 35",
 			"longitude": 123.5,
 			"latitude": 185.2,
-			"color": "red"
+			"color": 130.25
 		},
 		{
-			"id": 50,
+			"id": "m50",
 			"description": "Marker 50",
 			"longitude": -123.5,
 			"latitude": -185.86,
-			"color": "blue"
+			"color": 110.54
 		},
 		{
-			"id": 20,
+			"id": "m20",
 			"description": "Marker 20",
 			"longitude": 652.75,
 			"latitude": 652.26,
-			"color": "green"
+			"color": 20.15
 		},
 		{
-			"id": 25,
+			"id": "m25",
 			"description": "Marker 25",
 			"longitude": -319.10,
 			"latitude": 182.12,
 			"color": "red"
 		},
 		{
-			"id": 27,
+			"id": "m27",
 			"description": "Marker 27",
 			"longitude": 753.15,
 			"latitude": -185.2,
-			"color": "blue"
+			"color": 19.45
 		},
 		{
-			"id": 19,
+			"id": "m19",
 			"description": "Marker 19",
 			"longitude": -415.30,
 			"latitude": 321.01,
-			"color": "orange"
+			"color": 200.15
 		},
 		{
-			"id": 32,
+			"id": "m32",
 			"description": "Marker 32",
 			"longitude": -569.75,
 			"latitude": -105.74,
-			"color": "cyan"
+			"color": 400.0
 		},
 		{
-			"id": 43,
+			"id": "m43",
 			"description": "Marker 43",
 			"longitude": 485.59,
 			"latitude": 384.23,
-			"color": "white"
+			"color": 500.0
 		},
 		{
-			"id": 32,
-			"description": "Marker 32",
+			"id": "m75",
+			"description": "Marker 75",
 			"longitude": -569.23,
 			"latitude": -230.34,
-			"color": "blue"
+			"color": 600.0
 		},
 		{
-			"id": 33,
+			"id": "m33",
 			"description": "Marker 33",
 			"longitude": 786.45,
 			"latitude": 345.56,
-			"color": "blue"
+			"color": 100.0
 		}
 	]
 }
