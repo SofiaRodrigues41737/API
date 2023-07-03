@@ -1,73 +1,74 @@
 {
-	"markers": [{
-			"id": "m35",
-			"description": "Marker 35",
-			"longitude": 20.168331,
-			"latitude": 41.153332,
-			"color": 210.0
-		},
-		{
-			"id": "m50",
-			"description": "Marker 50",
-			"longitude": -63.616672,
-			"latitude": -38.416097,
-			"color": 60.0
-		},
-		{
-			"id": "m20",
-			"description": "Marker 20",
-			"longitude": 652.75,
-			"latitude": 652.26,
-			"color": 270.0
-		},
-		{
-			"id": "m25",
-			"description": "Marker 25",
-			"longitude": 25.48583,
-			"latitude": 42.733883,
-			"color": 120.0
-		},
-		{
-			"id": "m27",
-			"description": "Marker 27",
-			"longitude": -51.92528,
-			"latitude": -14.235004,
-			"color": 180.0
-		},
-		{
-			"id": "m19",
-			"description": "Marker 19",
-			"longitude": 21.758664,
-			"latitude": -4.038333,
-			"color": 30.0
-		},
-		{
-			"id": "m32",
-			"description": "Marker 32",
-			"longitude": -569.75,
-			"latitude": -105.74,
-			"color": 0.0
-		},
-		{
-			"id": "m43",
-			"description": "Marker 43",
-			"longitude": -77.781167,
-			"latitude": 21.521757,
-			"color": 210.0
-		},
-		{
-			"id": "m75",
-			"description": "Marker 75",
-			"longitude": 30.802498,
-			"latitude": 26.820553,
-			"color": 270.0
-		},
-		{
-			"id": "m33",
-			"description": "Marker 33",
-			"longitude": 19.145136,
-			"latitude": 51.919438,
-			"color": 180.0
-		}
-	]
+   "markers":[
+      {
+         "id":"m35",
+         "description":"Marker 35",
+         "longitude":20.168331,
+         "latitude":41.153332,
+         "color":210.0
+      },
+      {
+         "id":"m50",
+         "description":"Marker 50",
+         "longitude":-63.616672,
+         "latitude":-38.416097,
+         "color":60.0
+      },
+      {
+         "id":"m20",
+         "description":"Marker 20",
+         "longitude":652.75,
+         "latitude":652.26,
+         "color":270.0
+      },
+      {
+         "id":"m25",
+         "description":"Marker 25",
+         "longitude":25.48583,
+         "latitude":42.733883,
+         "color":120.0
+      },
+      {
+         "id":"m27",
+         "description":"Marker 27",
+         "longitude":-51.92528,
+         "latitude":-14.235004,
+         "color":180.0
+      },
+      {
+         "id":"m19",
+         "description":"Marker 19",
+         "longitude":21.758664,
+         "latitude":-4.038333,
+         "color":30.0
+      },
+      {
+         "id":"m32",
+         "description":"Marker 32",
+         "longitude":-569.75,
+         "latitude":-105.74,
+         "color":0.0
+      },
+      {
+         "id":"m43",
+         "description":"Marker 43",
+         "longitude":-77.781167,
+         "latitude":21.521757,
+         "color":210.0
+      },
+      {
+         "id":"m75",
+         "description":"Marker 75",
+         "longitude":30.802498,
+         "latitude":26.820553,
+         "color":270.0
+      },
+      {
+         "id":"m33",
+         "description":"Marker 33",
+         "longitude":19.145136,
+         "latitude":51.919438,
+         "color":180.0
+      }
+   ]
 }
