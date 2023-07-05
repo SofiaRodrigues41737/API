@@ -184,5 +184,42 @@
 		"urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/26-06-2023_Unsplash_Cambodia_genocide.jpg/image560x340cropped.jpg",
 		"publishedAt": "2023-06-26T10:30:00Z"  
 	   }
-   ]
+   ],
+	"Stock":[
+  {
+    "date": "2023-07-01", 
+    "type": "money", 
+    "origin": "Origin 1", 
+    "quantity": 10, 
+    "description": "Enviado para ajudar pessoas com fome"
+  },
+  {
+    "date": "2023-07-02", 
+    "type": "money", 
+    "origin": "Origin 2", 
+    "quantity": 20, 
+    "description": "Enviado para ajudar pessoas com muita fome"
+  },
+  {
+    "date": "2023-07-02", 
+    "type": "clothes", 
+    "origin": "Origin 3", 
+    "quantity": 100, 
+    "description": "50 calças e 50 camisolas"
+  },
+  {
+    "date": "2023-07-02", 
+    "type": "food", 
+    "origin": "Origin 4", 
+    "quantity": 300, 
+    "description": "sending cbo's"
+  },
+  {
+    "date": "2023-07-02", 
+    "type": "money", 
+    "origin": "Origin 5", 
+    "quantity": 1000, 
+    "description": "porque e rico"
+  }
+]
 }
