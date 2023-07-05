@@ -142,6 +142,47 @@
 		"url": "https://disasterphilanthropy.org/disasters/2022-pakistan-floods/",
 		"urlToImage": "https://disasterphilanthropy.org/wp-content/uploads/2022/08/Punjab-Emergency-Services-@pesrescue1122.jpeg",
 		"publishedAt": "2023-06-25T13:30:00Z"
-	}
+	},
+	   {
+		"id": 11,
+		"title": "Breaking the silence of poverty",
+		"description": "It’s been thirty years since the UN General Assembly adopted a resolution to create the International Day for the Eradication of Poverty.",
+		"url": "https://news.un.org/en/audio/2022/10/1129357",
+		"urlToImage": "https://soundcloud.com/unradio/podcast-breaking-the-silence-of-poverty",
+		"publishedAt": "2022-10-14T16:20:00Z"
+	},
+	   {
+		"id": 12,
+		"title": "The world is failing the Haitian people",
+		"description": "Immediate action needs to be taken by the international community to address conditions in Haiti.",
+		"url": "https://news.un.org/en/story/2023/06/1138212",
+		"urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/12-06-2023-UNICEF-Haiti-nutrition-01.jpg/image560x340cropped.jpg",
+		"publishedAt": "2022-06-29T11:30:00Z"
+	},
+	   {
+		"id": 13,
+		"title": "Weather experts predict potencial hurricanes",
+		"description": "The United States National Oceanic and Atmospheric Administration (NOAA) predicts near-normal hurricane activity.",
+		"url": "https://news.un.org/en/story/2023/05/1137112",
+		"urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Graphics%20Library/26-05-2023-NOAA-Hurrican-Ian.jpg/image560x340cropped.jpg",
+		"publishedAt": "2022-05-26T09:45:00Z"
+	},
+	   {
+		"id": 14,
+		"title": " More support needed for thousands still reeling",
+		"description": " Humanitarians are scaling up assistance in the Philippines to assist hundreds of thousands still impacted by Typhoon .",
+		"url": "https://news.un.org/en/story/2022/02/1111142",
+		"urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/02-02-2022_UNOCHA_Philippines-1.jpg/image560x340cropped.jpg",
+		"publishedAt": "2022-02-02T21:30:00Z"  
+	   }, 
+	   {
+	
+		"id": 15,
+		"title": " Torture as a weapon of war ",
+		"description": " UN rights experts marked the International Day in Support of Victims of Torture on Monday.",
+		"url": "https://news.un.org/en/story/2023/06/1138102",
+		"urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/26-06-2023_Unsplash_Cambodia_genocide.jpg/image560x340cropped.jpg",
+		"publishedAt": "2023-06-26T10:30:00Z"  
+	   }
    ]
 }
