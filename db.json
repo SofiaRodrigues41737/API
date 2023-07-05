@@ -1,289 +1,286 @@
 {
-   "markers": [
-      {
-         "id": "m35",
-         "description": "Marker 35",
-         "longitude": 20.168331,
-         "latitude": 41.153332,
-         "color": 210.0
-      },
-      {
-         "id": "m50",
-         "description": "Marker 50",
-         "longitude": -63.616672,
-         "latitude": -38.416097,
-         "color": 60.0
-      },
-      {
-         "id": "m20",
-         "description": "Marker 20",
-         "longitude": -73.968285,
-         "latitude": 40.785091,
-         "color": 270.0
-      },
-      {
-         "id": "m25",
-         "description": "Marker 25",
-         "longitude": 25.48583,
-         "latitude": 42.733883,
-         "color": 120.0
-      },
-      {
-         "id": "m27",
-         "description": "Marker 27",
-         "longitude": -51.92528,
-         "latitude": -14.235004,
-         "color": 180.0
-      },
-      {
-         "id": "m19",
-         "description": "Marker 19",
-         "longitude": 21.758664,
-         "latitude": -4.038333,
-         "color": 30.0
-      },
-      {
-         "id": "m32",
-         "description": "Marker 32",
-         "longitude": -1.023194,
-         "latitude": 7.946527,
-         "color": 0.0
-      },
-      {
-         "id": "m43",
-         "description": "Marker 43",
-         "longitude": -77.781167,
-         "latitude": 21.521757,
-         "color": 210.0
-      },
-      {
-         "id": "m75",
-         "description": "Marker 75",
-         "longitude": 30.802498,
-         "latitude": 26.820553,
-         "color": 270.0
-      },
-      {
-         "id": "m33",
-         "description": "Marker 33",
-         "longitude": 19.145136,
-         "latitude": 51.919438,
-         "color": 180.0
-      }
-   ], 
-   "news":[
-      
-      { "id": 1,
-		"title": "Israel's opioid crisis could become worst in the world",
-		"description": "In 2020, Israel led the world in consumption of opioids per capita.",
-		"url": "https://www.haaretz.com/israel-news/2023-07-04/ty-article-magazine/.premium/why-israels-opioid-crisis-could-become-the-worst-in-the-world/00000189-0769-dc2d-abcd-67e9d8ce0000",
-		"urlToImage": "https://img.haarets.co.il/bs/00000189-1fc2-dcb5-a5df-5ff74e140001/9c/c6/2aa28cab4572b574e3e359d70dac/opioid.jpg?width=108&amp;height=81",
-		"publishedAt": "2023-07-04T10:30:00Z"
-	}, {
-		"id": 2,
-		"title": "Teen’s killing raises a French policing issue that dare not be named",
-		"description": "We are concerned by the killing of a 17-year-old of North African descent by police in France.",
-		"url": "https://www.samaaenglish.tv/news/40040837/global-teens-killing-raises-a-french-policing-issue-that-dare-not-be-named",
-		"urlToImage": "https://i.samaaenglish.tv/primary/2023/07/02110920c17e0a2.jpg",
-		"publishedAt": "2023-07-03T15:45:00Z"
-	}, {
-		"id": 3,
-		"title": "Hurricane Hanna makes landfall around 5 p.m",
-		"description": "Hurricane Hanna battered southern Texas with sustained winds of 75.",
-		"url": "https://abcnews.go.com/US/hurricane-hanna-makes-landfall-texas/story?id=71985566",
-		"urlToImage": "https://s.abcnews.com/images/US/hanna-swimmer-mo_hpMain_20200725-163152_2_4x3t_384.jpg",
-		"publishedAt": "2023-07-02T08:00:00Z"
-	}, {
-		"id": 4,
-		"title": "Sudan Humanitarian Crisis",
-		"description": "Thousands of people are fleeing conflict-stricken areas seeking safety.",
-		"url": "https://disasterphilanthropy.org/disasters/sudan-humanitarian-crisis/",
-		"urlToImage": "https://disasterphilanthropy.org/wp-content/uploads/2023/05/FuqooTSaMAQQxa7-1024x683.jpeg",
-		"publishedAt": "2023-07-01T12:15:00Z"
-	}, {
-		"id": 5,
-		"title": "Us Tornadoes",
-		"description": "Severe food shortages and malnutrition are affecting millions.",
-		"url": "https://disasterphilanthropy.org/disasters/tropical-cyclone-freddy/",
-		"urlToImage": "https://disasterphilanthropy.org/wp-content/uploads/2023/01/2023_01_13-Alabama-tornado-damage-Gov-Kay-Ivey-1024x683.jpeg",
-		"publishedAt": "2023-06-30T17:20:00Z"
-	}, {
-		"id": 6,
-		"title": "Horn of African Hunger Crisis",
-		"description": "Pollution and habitat destruction endanger various species.",
-		"url": "https://disasterphilanthropy.org/disasters/horn-of-africa-hunger-crisis/",
-		"urlToImage": "https://disasterphilanthropy.org/wp-content/uploads/2022/07/52054309890_9a4677fec2_o-1152x1536.jpg",
-		"publishedAt": "2023-06-29T09:10:00Z"
-	}, {
-		"id": 7,
-		"title": "Tropical Cyclone Freddy",
-		"description": "Protests and unrest continue as the country faces a governance crisis.",
-		"url": "https://disasterphilanthropy.org/disasters/2023-north-american-wildfires/",
-		"urlToImage": "https://disasterphilanthropy.org/wp-content/uploads/2023/05/malachi-brooks-h7U5-PGa_70-unsplash-scaled-e1685041473538-879x1024.jpg",
-		"publishedAt": "2023-06-28T14:05:00Z"
-	}, {
-		"id": 8,
-		"title": "Atlantic Hurricane Season",
-		"description": "The ongoing pandemic has worsened mental health conditions globally.",
-		"url": "https://disasterphilanthropy.org/disasters/california-storms/",
-		"urlToImage": "https://disasterphilanthropy.org/wp-content/uploads/2022/12/2023_01_14-Caltrans-District-7-road-damage-1024x576.jpeg",
-		"publishedAt": "2023-06-27T16:50:00Z"
-	}, {
-		"id": 9,
-		"title": "Turkey-Syria Earthquale",
-		"description": "Economic downturn leads to job losses and poverty escalation.",
-		"url": "https://disasterphilanthropy.org/disasters/2023-new-zealand-floods/",
-		"urlToImage": "https://disasterphilanthropy.org/wp-content/uploads/2023/01/2023_01-NZTA-Total-collapse-of-road-2.jpeg",
-		"publishedAt": "2023-06-26T11:40:00Z"
-	}, {
-		"id": 10,
-		"title": "New Zealand Floods and Cyclone Gabrielle",
-		"description": "Peace talks face setbacks due to continued violence and hostility.",
-		"url": "https://disasterphilanthropy.org/disasters/2022-pakistan-floods/",
-		"urlToImage": "https://disasterphilanthropy.org/wp-content/uploads/2022/08/Punjab-Emergency-Services-@pesrescue1122.jpeg",
-		"publishedAt": "2023-06-25T13:30:00Z"
-	},
-	   {
-		"id": 11,
-		"title": "Breaking the silence of poverty",
-		"description": "It’s been thirty years since the UN General Assembly adopted a resolution to create the International Day for the Eradication of Poverty.",
-		"url": "https://news.un.org/en/audio/2022/10/1129357",
-		"urlToImage": "https://www.worldvision.org/wp-content/uploads/2023/03/D200-1159-383-850x566.jpg",
-		"publishedAt": "2022-10-14T16:20:00Z"
-	},
-	   {
-		"id": 12,
-		"title": "The world is failing the Haitian people",
-		"description": "Immediate action needs to be taken by the international community to address conditions in Haiti.",
-		"url": "https://news.un.org/en/story/2023/06/1138212",
-		"urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/12-06-2023-UNICEF-Haiti-nutrition-01.jpg/image560x340cropped.jpg",
-		"publishedAt": "2022-06-29T11:30:00Z"
-	},
-	   {
-		"id": 13,
-		"title": "Weather experts predict potencial hurricanes",
-		"description": "The United States National Oceanic and Atmospheric Administration (NOAA) predicts near-normal hurricane activity.",
-		"url": "https://news.un.org/en/story/2023/05/1137112",
-		"urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Graphics%20Library/26-05-2023-NOAA-Hurrican-Ian.jpg/image560x340cropped.jpg",
-		"publishedAt": "2022-05-26T09:45:00Z"
-	},
-	   {
-		"id": 14,
-		"title": " More support needed for thousands still reeling",
-		"description": " Humanitarians are scaling up assistance in the Philippines to assist hundreds of thousands still impacted by Typhoon .",
-		"url": "https://news.un.org/en/story/2022/02/1111142",
-		"urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/02-02-2022_UNOCHA_Philippines-1.jpg/image560x340cropped.jpg",
-		"publishedAt": "2022-02-02T21:30:00Z"  
-	   }, 
-	   {
-	
-		"id": 15,
-		"title": " Torture as a weapon of war ",
-		"description": " UN rights experts marked the International Day in Support of Victims of Torture on Monday.",
-		"url": "https://news.un.org/en/story/2023/06/1138102",
-		"urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/26-06-2023_Unsplash_Cambodia_genocide.jpg/image560x340cropped.jpg",
-		"publishedAt": "2023-06-26T10:30:00Z"  
-	   }
-   ],
-	"Stock":[
-  {
-    "date": "2023-07-01", 
-    "type": "money", 
-    "origin": "Origin 1", 
-    "quantity": 10, 
-    "description": "Enviado para ajudar pessoas com fome"
-  },
-  {
-    "date": "2023-07-02", 
-    "type": "money", 
-    "origin": "Origin 2", 
-    "quantity": 20, 
-    "description": "Enviado para ajudar pessoas com muita fome"
-  },
-  {
-    "date": "2023-07-02", 
-    "type": "clothes", 
-    "origin": "Origin 3", 
-    "quantity": 100, 
-    "description": "50 calças e 50 camisolas"
-  },
-  {
-    "date": "2023-07-02", 
-    "type": "food", 
-    "origin": "Origin 4", 
-    "quantity": 300, 
-    "description": "sending cbo's"
-  },
-  {
-    "date": "2023-07-02", 
-    "type": "money", 
-    "origin": "Origin 5", 
-    "quantity": 1000, 
-    "description": "porque e rico"
-  }
-],
-  "Projects": [
-    {
-      "id": 1,
-      "title": "For pets",
-      "location": "Lisbon",
-      "amount": 6000,
-      "description": "For all the pets bla bla bla...",
-      "isactive": true,
-      "ispartner": true
-    },
-    {
-      "id": 2,
-      "title": "For animals",
-      "location": "Lisbon",
-      "amount": 6000,
-      "description": "For all the pets bla bla bla...",
-      "isactive": false,
-      "ispartner": true
-    },
-    {
-      "id": 3,
-      "title": "For children",
-      "location": "Lisbon",
-      "amount": 6000,
-      "description": "For all the pets bla bla bla...",
-      "isactive": true,
-      "ispartner": false
-    }
-  ]
-	"users":[
-  {
-    "id": "1",
-    "firstName": "John",
-    "lastName": "Doe",
-    "email": "johndoe@example.com",
-    "password": "password1",
-    "birth": "1990-01-01",
-    "country": "United States",
-    "role": "user",
-    "photo": "profile1.jpg"
-  },
-  {
-    "id": "2",
-    "firstName": "Jane",
-    "lastName": "Smith",
-    "email": "janesmith@example.com",
-    "password": "password2",
-    "birth": "1985-05-15",
-    "country": "Canada",
-    "role": "user",
-    "photo": "profile2.jpg"
-  },
-  {
-    "id": "3",
-    "firstName": "Michael",
-    "lastName": "Johnson",
-    "email": "michaeljohnson@example.com",
-    "password": "password3",
-    "birth": "1992-12-30",
-    "country": "Australia",
-    "role": "user",
-    "photo": "profile3.jpg"
-  }
-]
+	"markers": [{
+			"id": "m35",
+			"description": "Marker 35",
+			"longitude": 20.168331,
+			"latitude": 41.153332,
+			"color": 210.0
+		},
+		{
+			"id": "m50",
+			"description": "Marker 50",
+			"longitude": -63.616672,
+			"latitude": -38.416097,
+			"color": 60.0
+		},
+		{
+			"id": "m20",
+			"description": "Marker 20",
+			"longitude": -73.968285,
+			"latitude": 40.785091,
+			"color": 270.0
+		},
+		{
+			"id": "m25",
+			"description": "Marker 25",
+			"longitude": 25.48583,
+			"latitude": 42.733883,
+			"color": 120.0
+		},
+		{
+			"id": "m27",
+			"description": "Marker 27",
+			"longitude": -51.92528,
+			"latitude": -14.235004,
+			"color": 180.0
+		},
+		{
+			"id": "m19",
+			"description": "Marker 19",
+			"longitude": 21.758664,
+			"latitude": -4.038333,
+			"color": 30.0
+		},
+		{
+			"id": "m32",
+			"description": "Marker 32",
+			"longitude": -1.023194,
+			"latitude": 7.946527,
+			"color": 0.0
+		},
+		{
+			"id": "m43",
+			"description": "Marker 43",
+			"longitude": -77.781167,
+			"latitude": 21.521757,
+			"color": 210.0
+		},
+		{
+			"id": "m75",
+			"description": "Marker 75",
+			"longitude": 30.802498,
+			"latitude": 26.820553,
+			"color": 270.0
+		},
+		{
+			"id": "m33",
+			"description": "Marker 33",
+			"longitude": 19.145136,
+			"latitude": 51.919438,
+			"color": 180.0
+		}
+	],
+	"news": [
+
+		{
+			"id": 1,
+			"title": "Israel's opioid crisis could become worst in the world",
+			"description": "In 2020, Israel led the world in consumption of opioids per capita.",
+			"url": "https://www.haaretz.com/israel-news/2023-07-04/ty-article-magazine/.premium/why-israels-opioid-crisis-could-become-the-worst-in-the-world/00000189-0769-dc2d-abcd-67e9d8ce0000",
+			"urlToImage": "https://img.haarets.co.il/bs/00000189-1fc2-dcb5-a5df-5ff74e140001/9c/c6/2aa28cab4572b574e3e359d70dac/opioid.jpg?width=108&amp;height=81",
+			"publishedAt": "2023-07-04T10:30:00Z"
+		}, {
+			"id": 2,
+			"title": "Teen’s killing raises a French policing issue that dare not be named",
+			"description": "We are concerned by the killing of a 17-year-old of North African descent by police in France.",
+			"url": "https://www.samaaenglish.tv/news/40040837/global-teens-killing-raises-a-french-policing-issue-that-dare-not-be-named",
+			"urlToImage": "https://i.samaaenglish.tv/primary/2023/07/02110920c17e0a2.jpg",
+			"publishedAt": "2023-07-03T15:45:00Z"
+		}, {
+			"id": 3,
+			"title": "Hurricane Hanna makes landfall around 5 p.m",
+			"description": "Hurricane Hanna battered southern Texas with sustained winds of 75.",
+			"url": "https://abcnews.go.com/US/hurricane-hanna-makes-landfall-texas/story?id=71985566",
+			"urlToImage": "https://s.abcnews.com/images/US/hanna-swimmer-mo_hpMain_20200725-163152_2_4x3t_384.jpg",
+			"publishedAt": "2023-07-02T08:00:00Z"
+		}, {
+			"id": 4,
+			"title": "Sudan Humanitarian Crisis",
+			"description": "Thousands of people are fleeing conflict-stricken areas seeking safety.",
+			"url": "https://disasterphilanthropy.org/disasters/sudan-humanitarian-crisis/",
+			"urlToImage": "https://disasterphilanthropy.org/wp-content/uploads/2023/05/FuqooTSaMAQQxa7-1024x683.jpeg",
+			"publishedAt": "2023-07-01T12:15:00Z"
+		}, {
+			"id": 5,
+			"title": "Us Tornadoes",
+			"description": "Severe food shortages and malnutrition are affecting millions.",
+			"url": "https://disasterphilanthropy.org/disasters/tropical-cyclone-freddy/",
+			"urlToImage": "https://disasterphilanthropy.org/wp-content/uploads/2023/01/2023_01_13-Alabama-tornado-damage-Gov-Kay-Ivey-1024x683.jpeg",
+			"publishedAt": "2023-06-30T17:20:00Z"
+		}, {
+			"id": 6,
+			"title": "Horn of African Hunger Crisis",
+			"description": "Pollution and habitat destruction endanger various species.",
+			"url": "https://disasterphilanthropy.org/disasters/horn-of-africa-hunger-crisis/",
+			"urlToImage": "https://disasterphilanthropy.org/wp-content/uploads/2022/07/52054309890_9a4677fec2_o-1152x1536.jpg",
+			"publishedAt": "2023-06-29T09:10:00Z"
+		}, {
+			"id": 7,
+			"title": "Tropical Cyclone Freddy",
+			"description": "Protests and unrest continue as the country faces a governance crisis.",
+			"url": "https://disasterphilanthropy.org/disasters/2023-north-american-wildfires/",
+			"urlToImage": "https://disasterphilanthropy.org/wp-content/uploads/2023/05/malachi-brooks-h7U5-PGa_70-unsplash-scaled-e1685041473538-879x1024.jpg",
+			"publishedAt": "2023-06-28T14:05:00Z"
+		}, {
+			"id": 8,
+			"title": "Atlantic Hurricane Season",
+			"description": "The ongoing pandemic has worsened mental health conditions globally.",
+			"url": "https://disasterphilanthropy.org/disasters/california-storms/",
+			"urlToImage": "https://disasterphilanthropy.org/wp-content/uploads/2022/12/2023_01_14-Caltrans-District-7-road-damage-1024x576.jpeg",
+			"publishedAt": "2023-06-27T16:50:00Z"
+		}, {
+			"id": 9,
+			"title": "Turkey-Syria Earthquale",
+			"description": "Economic downturn leads to job losses and poverty escalation.",
+			"url": "https://disasterphilanthropy.org/disasters/2023-new-zealand-floods/",
+			"urlToImage": "https://disasterphilanthropy.org/wp-content/uploads/2023/01/2023_01-NZTA-Total-collapse-of-road-2.jpeg",
+			"publishedAt": "2023-06-26T11:40:00Z"
+		}, {
+			"id": 10,
+			"title": "New Zealand Floods and Cyclone Gabrielle",
+			"description": "Peace talks face setbacks due to continued violence and hostility.",
+			"url": "https://disasterphilanthropy.org/disasters/2022-pakistan-floods/",
+			"urlToImage": "https://disasterphilanthropy.org/wp-content/uploads/2022/08/Punjab-Emergency-Services-@pesrescue1122.jpeg",
+			"publishedAt": "2023-06-25T13:30:00Z"
+		},
+		{
+			"id": 11,
+			"title": "Breaking the silence of poverty",
+			"description": "It’s been thirty years since the UN General Assembly adopted a resolution to create the International Day for the Eradication of Poverty.",
+			"url": "https://news.un.org/en/audio/2022/10/1129357",
+			"urlToImage": "https://www.worldvision.org/wp-content/uploads/2023/03/D200-1159-383-850x566.jpg",
+			"publishedAt": "2022-10-14T16:20:00Z"
+		},
+		{
+			"id": 12,
+			"title": "The world is failing the Haitian people",
+			"description": "Immediate action needs to be taken by the international community to address conditions in Haiti.",
+			"url": "https://news.un.org/en/story/2023/06/1138212",
+			"urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/12-06-2023-UNICEF-Haiti-nutrition-01.jpg/image560x340cropped.jpg",
+			"publishedAt": "2022-06-29T11:30:00Z"
+		},
+		{
+			"id": 13,
+			"title": "Weather experts predict potencial hurricanes",
+			"description": "The United States National Oceanic and Atmospheric Administration (NOAA) predicts near-normal hurricane activity.",
+			"url": "https://news.un.org/en/story/2023/05/1137112",
+			"urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Graphics%20Library/26-05-2023-NOAA-Hurrican-Ian.jpg/image560x340cropped.jpg",
+			"publishedAt": "2022-05-26T09:45:00Z"
+		},
+		{
+			"id": 14,
+			"title": " More support needed for thousands still reeling",
+			"description": " Humanitarians are scaling up assistance in the Philippines to assist hundreds of thousands still impacted by Typhoon .",
+			"url": "https://news.un.org/en/story/2022/02/1111142",
+			"urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/02-02-2022_UNOCHA_Philippines-1.jpg/image560x340cropped.jpg",
+			"publishedAt": "2022-02-02T21:30:00Z"
+		},
+		{
+
+			"id": 15,
+			"title": " Torture as a weapon of war ",
+			"description": " UN rights experts marked the International Day in Support of Victims of Torture on Monday.",
+			"url": "https://news.un.org/en/story/2023/06/1138102",
+			"urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/26-06-2023_Unsplash_Cambodia_genocide.jpg/image560x340cropped.jpg",
+			"publishedAt": "2023-06-26T10:30:00Z"
+		}
+	],
+	"Stock": [{
+			"date": "2023-07-01",
+			"type": "money",
+			"origin": "Origin 1",
+			"quantity": 10,
+			"description": "Enviado para ajudar pessoas com fome"
+		},
+		{
+			"date": "2023-07-02",
+			"type": "money",
+			"origin": "Origin 2",
+			"quantity": 20,
+			"description": "Enviado para ajudar pessoas com muita fome"
+		},
+		{
+			"date": "2023-07-02",
+			"type": "clothes",
+			"origin": "Origin 3",
+			"quantity": 100,
+			"description": "50 calças e 50 camisolas"
+		},
+		{
+			"date": "2023-07-02",
+			"type": "food",
+			"origin": "Origin 4",
+			"quantity": 300,
+			"description": "sending cbo's"
+		},
+		{
+			"date": "2023-07-02",
+			"type": "money",
+			"origin": "Origin 5",
+			"quantity": 1000,
+			"description": "porque e rico"
+		}
+	],
+	"Projects": [{
+			"id": 1,
+			"title": "For pets",
+			"location": "Lisbon",
+			"amount": 6000,
+			"description": "For all the pets bla bla bla...",
+			"isactive": true,
+			"ispartner": true
+		},
+		{
+			"id": 2,
+			"title": "For animals",
+			"location": "Lisbon",
+			"amount": 6000,
+			"description": "For all the pets bla bla bla...",
+			"isactive": false,
+			"ispartner": true
+		},
+		{
+			"id": 3,
+			"title": "For children",
+			"location": "Lisbon",
+			"amount": 6000,
+			"description": "For all the pets bla bla bla...",
+			"isactive": true,
+			"ispartner": false
+		}
+	],
+	"users": [{
+			"id": "1",
+			"firstName": "John",
+			"lastName": "Doe",
+			"email": "johndoe@example.com",
+			"password": "password1",
+			"birth": "1990-01-01",
+			"country": "United States",
+			"role": "user",
+			"photo": "profile1.jpg"
+		},
+		{
+			"id": "2",
+			"firstName": "Jane",
+			"lastName": "Smith",
+			"email": "janesmith@example.com",
+			"password": "password2",
+			"birth": "1985-05-15",
+			"country": "Canada",
+			"role": "user",
+			"photo": "profile2.jpg"
+		},
+		{
+			"id": "3",
+			"firstName": "Michael",
+			"lastName": "Johnson",
+			"email": "michaeljohnson@example.com",
+			"password": "password3",
+			"birth": "1992-12-30",
+			"country": "Australia",
+			"role": "user",
+			"photo": "profile3.jpg"
+		}
+	]
 }
