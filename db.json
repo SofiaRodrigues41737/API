@@ -211,31 +211,5 @@
 			"role": "user",
 			"photo": "profile3.jpg"
 		}
-	],
-	"donation":[
-		   {
-		      "id":"1",
-		      "name":"John",
-		      "anonymous":false,
-		      "email":"johndoe@example.com",
-		      "quantity":20,
-		      "message":"Para ajudar"
-		   },
-		   {
-		      "id":"2",
-		      "name":"Maria",
-		      "anonymous":false,
-		      "email":"maria@example.com",
-		      "quantity":40,
-		      "message":"Para ajudar"
-		   },
-		   {
-		      "id":"3",
-		      "name":"Diogo",
-		      "anonymous":false,
-		      "email":"diogo@example.com",
-		      "quantity":10,
-		      "message":"Para ajudar"
-		   }
 	]
 }
