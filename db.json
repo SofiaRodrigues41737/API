@@ -152,28 +152,28 @@
 	],
 	"Projects": [{
 			"id": 1,
-			"title": "For pets",
+			"title": "For all pet lovers",
 			"location": "Lisbon",
 			"amount": 6000,
-			"description": "For all the pets bla bla bla...",
+			"description": "A project dedicated to help all animal lovers, to give them proper care and love.",
 			"isactive": true,
 			"ispartner": true
 		},
 		{
 			"id": 2,
-			"title": "For animals",
-			"location": "Lisbon",
-			"amount": 6000,
-			"description": "For all the pets bla bla bla...",
+			"title": "Children of All",
+			"location": "Berlin",
+			"amount": 50000,
+			"description": "The project was started by a young couple to provide shelter to all children in need.",
 			"isactive": false,
 			"ispartner": true
 		},
 		{
 			"id": 3,
-			"title": "For children",
-			"location": "Lisbon",
-			"amount": 6000,
-			"description": "For all the pets bla bla bla...",
+			"title": "Homes from the Heart",
+			"location": "Madrid",
+			"amount": 50000,
+			"description": "Project dedicated to give safe houses to all of the refugies that seek a place to stay.",
 			"isactive": true,
 			"ispartner": false
 		}
