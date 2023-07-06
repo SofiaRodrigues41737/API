@@ -216,7 +216,7 @@
 			"password": "password1",
 			"birth": "1990-01-01",
 			"country": "United States",
-			"role": "user",
+			"role": "admin",
 			"photo": "profile1.jpg"
 		},
 		{
