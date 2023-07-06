@@ -107,13 +107,6 @@
 			"url": "https://disasterphilanthropy.org/disasters/california-storms/",
 			"urlToImage": "https://disasterphilanthropy.org/wp-content/uploads/2022/12/2023_01_14-Caltrans-District-7-road-damage-1024x576.jpeg",
 			"publishedAt": "2023-06-27T16:50:00Z"
-		}, {
-			"id": 9,
-			"title": "Turkey-Syria Earthquale",
-			"description": "Economic downturn leads to job losses and poverty escalation.",
-			"url": "https://disasterphilanthropy.org/disasters/2023-new-zealand-floods/",
-			"urlToImage": "https://disasterphilanthropy.org/wp-content/uploads/2023/01/2023_01-NZTA-Total-collapse-of-road-2.jpeg",
-			"publishedAt": "2023-06-26T11:40:00Z"
 		}
 	],
 	"Stock": [{
@@ -220,29 +213,29 @@
 		}
 	],
 	"donation":[
-   {
-      "id":"1",
-      "name":"John",
-      "anonymous":false,
-      "email":"johndoe@example.com",
-      "quantity":20,
-      "message":"Para ajudar"
-   },
-   {
-      "id":"2",
-      "name":"Maria",
-      "anonymous":false,
-      "email":"maria@example.com",
-      "quantity":40,
-      "message":"Para ajudar"
-   },
-   {
-      "id":"3",
-      "name":"Diogo",
-      "anonymous":false,
-      "email":"diogo@example.com",
-      "quantity":10,
-      "message":"Para ajudar"
-   }
-]
+		   {
+		      "id":"1",
+		      "name":"John",
+		      "anonymous":false,
+		      "email":"johndoe@example.com",
+		      "quantity":20,
+		      "message":"Para ajudar"
+		   },
+		   {
+		      "id":"2",
+		      "name":"Maria",
+		      "anonymous":false,
+		      "email":"maria@example.com",
+		      "quantity":40,
+		      "message":"Para ajudar"
+		   },
+		   {
+		      "id":"3",
+		      "name":"Diogo",
+		      "anonymous":false,
+		      "email":"diogo@example.com",
+		      "quantity":10,
+		      "message":"Para ajudar"
+		   }
+	]
 }
