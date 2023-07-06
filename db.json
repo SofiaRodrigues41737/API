@@ -140,6 +140,7 @@
 		}
 	],
 	"Stock": [{
+			"id": 1,
 			"date": "2023-07-01",
 			"type": "money",
 			"origin": "Origin 1",
@@ -147,6 +148,7 @@
 			"description": "Enviado para ajudar pessoas com fome"
 		},
 		{
+			"id": 2,
 			"date": "2023-07-02",
 			"type": "money",
 			"origin": "Origin 2",
@@ -154,6 +156,7 @@
 			"description": "Enviado para ajudar pessoas com muita fome"
 		},
 		{
+			"id": 3,
 			"date": "2023-07-02",
 			"type": "clothes",
 			"origin": "Origin 3",
@@ -161,6 +164,7 @@
 			"description": "50 calças e 50 camisolas"
 		},
 		{
+			"id": 4,
 			"date": "2023-07-02",
 			"type": "food",
 			"origin": "Origin 4",
@@ -168,6 +172,7 @@
 			"description": "sending cbo's"
 		},
 		{
+			"id": 5,
 			"date": "2023-07-02",
 			"type": "money",
 			"origin": "Origin 5",
